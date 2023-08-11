@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # Function
-if __name__ == "__main__":
+sh: 1: q: not found
     import sys
 
     arg = sys.argv
