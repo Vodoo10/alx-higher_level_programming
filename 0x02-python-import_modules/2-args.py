@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+# Function
 if __name__ == "__main__":
     import sys
 
@@ -14,5 +15,5 @@ if __name__ == "__main__":
         print("{} arguments.".format(i))
 
     else:
-        print("{} arguments:".format(i))
+        print("{} argument:".format(i))
         print("{}: {}".format(i, arg[1]))
