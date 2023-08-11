@@ -9,7 +9,7 @@ if __name__ == "__main__":
     if i >  0:
         print("{} arguments:".format(i))
         for k in range(1, i + 1):
-            print("{}: {}".format(k, arg[k])
+            print("{}: {}".format(k, arg[k]))
 
     elif i == 0:
         print("{} arguments.".format(i))
